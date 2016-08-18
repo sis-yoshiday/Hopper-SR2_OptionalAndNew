@@ -19,8 +19,8 @@ apply plugin: 'io.spring.dependency-management'
 
 ext {
     //springDataVersion = 'Gosling-SR4'
-    springDataVersion = 'Hopper-SR2'
-    //springDataVersion = 'Hopper-BUILD-SNAPSHOT'
+    //springDataVersion = 'Hopper-SR2'
+    springDataVersion = 'Hopper-BUILD-SNAPSHOT'
 }
 
 dependencyManagement {
